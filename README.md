@@ -6,4 +6,5 @@
 | [StrategyPattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/StrategyPattern) |   策略模式   |
 | [SingletonPattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/SingletonPattern) |   单例模式   |
 | [FacadePattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/FacadePattern) |   外观模式   |
+| [AdapterPattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/AdapterPattern) |  适配器模式  |
 |                             ...                              |     ...      |
