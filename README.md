@@ -7,4 +7,4 @@
 | [SingletonPattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/SingletonPattern) |   单例模式   |
 | [FacadePattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/FacadePattern) |   外观模式   |
 | [AdapterPattern](https://github.com/chuyangc/Go-DesignPattern/tree/master/AdapterPattern) |  适配器模式  |
-|                             ...                              |     ...      |
+| [AbstractFactory](https://github.com/chuyangc/Go-DesignPattern/tree/master/AbstractFactory) | 抽象工厂模式 |
